@@ -1,5 +1,5 @@
 # AI_project
-#Dataset descripton
+# Dataset descripton
 
 This dataset is designed to aid in the diagnosis of **breast cancer**, one of the most prevalent cancers in the world. It includes detailed measurements of cell nuclei extracted from breast mass biopsies. The dataset is widely used in medical research and machine learning to develop diagnostic tools that assist in early and accurate detection of breast cancer.
 
@@ -34,14 +34,14 @@ The target variable, **Diagnosis**, indicates the type of tumor:
 - **B (Benign):** Non-cancerous tumor.
 
 
-#Acknowledgment
+# Acknowledgment
 
 We extend our gratitude to the **University of Wisconsin-Madison** and its researchers for collecting and sharing this dataset, which was originally published by **Dr. William H. Wolberg**. Their work has enabled countless advancements in the early detection of breast cancer, aiding researchers and clinicians in developing better diagnostic tools.
 
 Additionally, we acknowledge the efforts of data scientists and machine learning practitioners who continue to use this data to create predictive models that help identify cancerous tumors at earlier stages, potentially saving lives through timely medical interventions.
 
 
-#Disease type
+# Disease type
 
 Breast cancer is a disease where cells in the breast grow uncontrollably. It is classified into two major types based on its potential to spread:
 
@@ -59,7 +59,7 @@ These tumors:
 - **Grow slowly**: Often don’t pose a significant health risk.
 - **May require monitoring**: In some cases, surgical removal is needed to prevent discomfort or further growth.
 
-#Common symptoms of Breast Cancer
+# Common symptoms of Breast Cancer
 
 - Lump in the breast or underarm.
 - Change in the size, shape, or appearance of the breast.
@@ -67,7 +67,7 @@ These tumors:
 - Persistent breast pain or redness.
 
 
-#Importance of Early diagnosis
+# Importance of Early diagnosis
 
 Early detection of breast cancer significantly improves the chances of successful treatment and survival. Diagnostic techniques like mammography, ultrasound, and biopsies, combined with machine learning models developed from datasets like this, play a vital role in identifying cancer at its earliest stages.
 
